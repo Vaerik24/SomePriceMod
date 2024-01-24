@@ -1,7 +1,7 @@
 {
   "name": "SomePriceMod",
   "version_number": "1.0.0",
-  "website_url": "https://github.com/Koder-Teh/SomePriceMod",
+  "website_url": "https://github.com/Vaerik24/SomePriceMod",
   "description": "Allows you to easily upload a track to the boombox by specifying a link",
   "dependencies": [
     "BepInEx-BepInExPack-5.4.2100"
